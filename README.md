@@ -1,6 +1,6 @@
 # first_assignments
 
-Research_Track_first assignment   (alluri sai Krishna rama chander raju)(matricola 5060551)
+Research_Track_first assignment   (vallamkonda vishal)(matricola 5071089)
 The assignment requires controlling a holonomic robot in a 2d space with a simple 2d simulator
 
 ### A brief description of the used Algorithm
@@ -21,6 +21,10 @@ ROS server: Service Server replies to the client with a random target
 
 
 ##Run the simulator
+
+Download the package and add it to the workace
+
+''
 
 To start rosmaster
 
