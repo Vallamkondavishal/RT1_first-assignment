@@ -24,7 +24,7 @@ ROS server: Service Server replies to the client with a random target
 
 Download the package and add it to the workace
 
-''
+'https://github.com/Vallamkondavishal/RT1_first-assignment.git'
 
 To start rosmaster
 
