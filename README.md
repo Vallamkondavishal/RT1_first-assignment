@@ -24,18 +24,18 @@ ROS server: Service Server replies to the client with a random target
 
 Download the package and add it to the workace
 
-' https://github.com/Vallamkondavishal/RT1_first-assignment.git '
+` https://github.com/Vallamkondavishal/RT1_first-assignment.git `
 
 To start rosmaster
 
- ' roscore '
+ ` roscore `
  
  To launch the simulator
  
- ' rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world '
+ ` rosrun stage_ros stageros $(rospack find assignment1)/world/exercise.world `
 
 Run the service node
-' rosrun node1 node1 '
+` rosrun node1 node1 '
 
 Run the First node
 ' rosrun assignment1 assignment1 '
